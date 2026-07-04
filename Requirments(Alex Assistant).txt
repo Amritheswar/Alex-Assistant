@@ -1,0 +1,7 @@
+SpeechRecognition
+pyttsx3
+PyAudio
+numpy
+torch
+openai-whisper
+sounddevice
